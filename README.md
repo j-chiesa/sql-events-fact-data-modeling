@@ -1,4 +1,4 @@
-# SQL Events Fact Data Modeling
+# SQL Project: Events Fact Data Modeling
 
 This repository demonstrates a data engineering solution focused on constructing cumulative and incremental queries to support fact data modeling. The project addresses complex requirements such as tracking user device activity, logging host activity, and generating monthly reduced fact tables.
 
