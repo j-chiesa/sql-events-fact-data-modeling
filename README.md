@@ -83,6 +83,4 @@ The solution was devised based on:
 - **`2_hosts_cumulated.sql`**: DDL and queries for cumulative host activity.
 - **`3_host_activity_reduced.sql`**: DDL and queries for monthly reduced fact tables.
 
----
-
 This project highlights SQL skills, database design, and incremental query implementation to solve data modeling challenges effectively.
